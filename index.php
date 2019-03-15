@@ -1,3 +1,3 @@
 <?php
-    echo "pls leave"
+    echo "pls leave!"
 ?>
